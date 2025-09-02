@@ -26,6 +26,9 @@ This project presents a model for CAR-NK cytotoxicity across various cell lines.
 - *`Pareto_optimization/`*  
   Contains analyses related to multi-objective optimization approaches.
 
+- *`Confidence_Interval_w_Donor_H`*
+ Contains files for finding confidence interval for donor H
+
 - *`Traing_and_Prediction_w_mean`*  
   Contains model fitting and predictions utilizing average molecule counts per cell aggregated across all donors.
 
